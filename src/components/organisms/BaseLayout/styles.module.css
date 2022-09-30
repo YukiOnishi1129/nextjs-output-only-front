@@ -1,0 +1,16 @@
+.container {
+    width: 50%;
+    margin: 80px auto;
+}
+
+.title {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #fff;
+    font-size: 48px;
+}
+
+.common {
+    width: 80%;
+    margin: 40px auto;
+}
