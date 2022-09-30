@@ -1,0 +1,6 @@
+.ul {
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    justify-content: space-around;
+}
