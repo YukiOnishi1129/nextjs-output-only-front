@@ -3,7 +3,7 @@
     margin: 40px auto;
 }
 
-@media screen and (min-width: 520px) {
+@media screen and (min-width: 960px) {
     .container {
         width: 50%;
         margin: 80px auto;
