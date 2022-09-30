@@ -7,7 +7,7 @@ TypeScriptを使用
 状態管理はcontext apiを使用
 
 urlはこちら
-https://yukionishi1129.github.io/react-output-router-ts/
+https://nextjs-output-only-front.vercel.app/
 
 ## 目次
 
