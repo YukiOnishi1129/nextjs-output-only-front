@@ -1,4 +1,4 @@
-# react-output-router-ts
+# nextjs-output-only-front
 
 Next.jsアウトプットサンプル
 
